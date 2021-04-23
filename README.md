@@ -1,6 +1,6 @@
 ## Hi, I'm Elenilson Monteiro (EleMonteiro)! 👋
 
-Graduated in Software Engineering from [Federal University of Ceará] (http://www.ufc.br/).
+Graduated in Software Engineering from [Federal University of Ceará](http://www.ufc.br/).
 
 ## 🛠 Skills
 
@@ -18,7 +18,7 @@ Graduated in Software Engineering from [Federal University of Ceará] (http://ww
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
   <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
 </p>
 
 ## 🔎 Find me on :
