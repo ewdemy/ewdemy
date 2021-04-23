@@ -1,6 +1,6 @@
 ## Hi, I'm Elenilson Monteiro (EleMonteiro)! 👋
 
-Graduated in Software Engineering from [Federal University of Ceará](http://www.ufc.br/).
+:mortar_board: Graduated in Software Engineering from [Federal University of Ceará](http://www.ufc.br/).
 
 ## 🛠 Skills
 
