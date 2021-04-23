@@ -7,8 +7,8 @@ Graduated in Software Engineering from [Federal University of Ceará](http://www
 <p>
   <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D" />
