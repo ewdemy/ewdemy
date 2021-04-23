@@ -29,3 +29,7 @@
 <img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleMonteiro&show_icons=true&hide_border=true" />
 <img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleMonteiro&hide=java&hide_border=true" />
 
+## :computer: Courses
+* React Native Course: Develop Native APPs for Android and iOS!
+* React + Redux Course: Fundamentals and 2 Apps from Absolute ZERO!
+* Full Android Development 2021 - Create 18 Apps
