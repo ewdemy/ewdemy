@@ -26,7 +26,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Elenilson%20Monteiro-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elenilson-monteiro-4588ab18b/ "Connect on LinkedIn")
 
 ## ⚡ GitHub Stats
-<img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleMonteiro&show_icons=true&hide_border=true" />
+<img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EleMonteiro&hide=contribs,prs" />
 <img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleMonteiro&hide=java&hide_border=true&&count_private=true" />
 
 ## :computer: Courses
