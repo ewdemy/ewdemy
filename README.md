@@ -27,7 +27,7 @@
 
 ## ⚡ GitHub Stats
 <img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleMonteiro&show_icons=true&hide_border=true" />
-<img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleMonteiro&hide=java&hide_border=true" />
+<img align="left" alt="EleMonteiro's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleMonteiro&hide=java&hide_border=true&&count_private=true" />
 
 ## :computer: Courses
 * React Native Course: Develop Native APPs for Android and iOS!
