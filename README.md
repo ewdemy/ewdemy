@@ -1,6 +1,6 @@
 ### Hi, I'm Eudemir! 👋
 
-Welcome to my profile! Here you will find some of my activities. Hope you like it!
+Welcome to my profile! Here you will find some of my activities. I hope you like it!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudemirvieira/)
 
