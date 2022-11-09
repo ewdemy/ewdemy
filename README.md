@@ -1,6 +1,22 @@
 ## Hi, I'm Eudemir! 👋
 
-[![Eudemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewdemy)](https://github.com/ewdemy/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/ewdemy/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/ewdemy/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/ewdemy/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ewdemy/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/ewdemy/github-readme-stats">
+      <img src="https://codecov.io/gh/ewdemy/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/ewdemy/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ewdemy/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/ewdemy/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ewdemy/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
 
 ![Eudemir GitHub stats](https://github-readme-stats.vercel.app/api?username=ewdemy&show_icons=true&theme=dracula&count_private=true)
 
