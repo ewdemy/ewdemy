@@ -1,5 +1,8 @@
 ### Hi, I'm Eudemir! 👋
 
+Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades. Espero que curta!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudemirvieira/)
 
 ![Eudemir GitHub stats](https://github-readme-stats.vercel.app/api?username=ewdemy&show_icons=true&theme=dracula&count_private=true)
 
