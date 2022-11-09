@@ -1,14 +1,8 @@
 ## Hi, I'm Eudemir! 👋
 
 <p align="center">
- <a href="https://github.com/ewdemy/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/ewdemy/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/ewdemy/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ewdemy/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/ewdemy/github-readme-stats">
-      <img src="https://codecov.io/gh/ewdemy/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/ewdemy/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/ewdemy/github-readme-stats?color=0088ff" />
