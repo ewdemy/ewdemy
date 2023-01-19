@@ -5,10 +5,8 @@ Welcome to my profile! Here you will find some of my activities. I hope you like
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudemirvieira/)
 
 <img src="https://komarev.com/ghpvc/?username=ewdemy" />
-<br>
     <p align="left">
         <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ewdemy&theme=tokyonight&hide_border=false"/>
-        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ewdemy&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </p>
 <br>
 
